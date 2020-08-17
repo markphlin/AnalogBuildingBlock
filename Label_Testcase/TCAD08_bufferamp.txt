@@ -1,0 +1,44 @@
+====================
+TCAD08_bufferamp
+====================
+CCM: MM4, MM1, MM3, MM0
+CCM: MM9, MM1, MM10, MM0
+CCM: MM5, MM1, MM6, MM0
+CCM: MM8, MM1, MM7, MM0
+CCM: MM21, MM11, MM22, MM12
+CCM: MM16, MM11, MM15, MM12
+WSCCM: MM19, MM18, MM20, MM17
+cm: MM9, MM0
+cm: MM4, MM0
+cm: MM5, MM0
+cm: MM8, MM0
+cm: MM40, MM32
+cm: MM21, MM12
+cm: MM16, MM12
+cm: MM41, MM33
+cp: MM14, MM3
+cp: MM4, MM3
+cp: MM13, MM3
+cp: MM6, MM5
+cp: MM8, MM7
+cp: MM10, MM9
+cp: MM24, MM15
+cp: MM16, MM15
+cp: MM23, MM15
+cp: MM20, MM19
+cp: MM22, MM21
+dp: MM14, MM13
+dp: MM24, MM23
+ls: MM6, MM1
+ls: MM7, MM1
+ls: MM10, MM1
+ls: MM3, MM1
+ls: MM35, MM28
+ls: MM39, MM36
+ls: MM19, MM11
+ls: MM18, MM11
+ls: MM15, MM11
+ls: MM22, MM11
+ls: MM34, MM26
+ls: MM38, MM37
+vr2: MM18, MM17

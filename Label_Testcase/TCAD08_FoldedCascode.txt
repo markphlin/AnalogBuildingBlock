@@ -1,0 +1,30 @@
+====================
+TCAD08_FoldedCascode
+====================
+4TCM: MM6, MM5, MM1, MM0
+CCM: MM19, MM17, MM14, MM12
+CCM: MM18, MM17, MM13, MM12
+CCM: MM21, MM20, MM16, MM15
+cm: MM4, MM2
+cm: MM3, MM2
+cm: MM18, MM17
+cm: MM19, MM17
+cm: MM21, MM20
+cml: MM6, MM1
+cp: MM8, MM3
+cp: MM9, MM4
+cp: MM14, MM10
+cp: MM14, MM19
+cp: MM14, MM11
+cp: MM18, MM13
+cp: MM21, MM16
+dp: MM11, MM10
+ls: MM5, MM1
+ls: MM5, MM7
+ls: MM5, MM8
+ls: MM5, MM6
+ls: MM5, MM9
+ls: MM13, MM12
+ls: MM14, MM12
+ls: MM16, MM15
+vr1: MM5, MM0
